@@ -240,5 +240,3 @@ python create_test_data.py --seed "acme"  # deterministic for seed "acme"
 - Third-party components and their licenses are listed in `THIRD_PARTY_NOTICES.md`.
 
 **Enjoy using Folder Manager to keep your file system organized!** 📁✨
-# Folder_Manager
-# Folder_Manager
